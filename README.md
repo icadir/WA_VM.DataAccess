@@ -14,6 +14,7 @@ Entity Framework -- Eğitim
 ## Kullanılan Teknolojiler ##
 
  - N-Tier Project Pattern
+ - Repository Entity Pattern
  - DB-First
  - Code First
  - CRUD İşlemleri
